@@ -1,0 +1,3 @@
+[submodule "bindings/R/tokenizeRs"]
+	path = bindings/R/tokenizeRs
+	url = git@github.com:suhartobanerjee/tokenizeR.git
